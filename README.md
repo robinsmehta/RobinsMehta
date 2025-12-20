@@ -106,7 +106,7 @@
   <br/>
   <p>Let's build something amazing together.</p>
   <p>
-    <a href="mailto:robinsmehta07@gmail.com"><b>Get In Touch ↗</b></a>
+    <a href="https://robinsmehta.com.np/"><b>Get In Touch ↗</b></a>
   </p>
 </div>
 
