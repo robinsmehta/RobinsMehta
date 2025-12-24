@@ -72,7 +72,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.robinsmehta.com.np/bot"style="text-decoration: none;"><b>🤖 AI Chatbot</b></a></td>
+      <td><b>🤖 AI Chatbot</b></td>
       <td>An intelligent assistant that handles customer queries using natural language processing.</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow" />
