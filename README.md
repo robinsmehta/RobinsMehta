@@ -2,9 +2,9 @@
   <tr>
     <td width="60%" valign="center">
       <h1>Hi there, I'm <span style="color:#61DAFB;">Robins Mehta</span> 👋</h1>
-      <h3>👨‍💻 Full Stack Developer | Open Source Enthusiast</h3>
+      <h3>👨‍💻 Full Stack Developer</h3>
       <p>
-        I craft robust and scalable web applications. With a passion for clean code and intuitive UI, I turn complex problems into elegant digital solutions.
+        I build modern, scalable and high-performance web applications with a strong focus on clean UI and user experience.
       </p>
       <p>
         <code>🚀 1+ Years Exp</code> &nbsp;|&nbsp; 
@@ -44,13 +44,10 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /><br/>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
     </td>
   </tr>
